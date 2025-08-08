@@ -8,3 +8,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleisilva88&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanderleisilva88&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="400"/></div>
 
+
+
+
+
+
+
+
+
+
+
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VanderleiSilva88/VanderleiSilva88/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
